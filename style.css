@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+    font-family:Orelega One;
+
+}
+.main{
+    max-width: 500px;
+    width: 100%;
+    background: rgb(255, 255, 255);
+    margin: 50px auto;
+    box-shadow: 2px 2px 4px rgba(0,0,0,0.125);
+    padding: 30px;
+    background-image: url(https://www.discover.com/online-banking/banking-topics/wp-content/themes/bb-new/dist/images/inserts/product-insert--savings.gif);
+
+}
